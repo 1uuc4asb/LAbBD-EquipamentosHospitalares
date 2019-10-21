@@ -17,13 +17,12 @@ Esta parte de meu trabalho de banco de dados consiste em desenvolver um sistema 
 
 ## Criando o banco de dados
 
-Crie um banco de dados com o nome de XadrezDB (recomendado).
-Ao clonar o projeto você verá que temos um script com a criação do banco em um arquivo .sql .
-Utilizamos o MariaDB no projeto então a sintaxe será compatível com o mesmo.
+Crie um banco de dados com o nome de EquipamentosHospitalares (recomendado).
+*** ALTERE O ENV PARA CONECTAR AO BANCO!!! ***
 
 ## Clonando o projeto
 
-### Ao clonar o projeto você deve ir a pasta do projeto (XadrezCRUD) e rodar os seguintes comandos.
+### Ao clonar o projeto você deve ir a pasta do projeto (nao lembro qual é o nome dela) e rodar os seguintes comandos.
 
 Você deverá rodar este comando para instalar as dependências do laravel/composer.
 
