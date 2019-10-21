@@ -45,6 +45,12 @@ Gere a chave do php artisan.
 $ php artisan key:generate
 ```
 
+Instale os pacotes do node e rode o node para ele compilar o CSS e o JS.
+
+```
+npm install && npm run dev
+```
+
 ## Rodando a aplicação
 
 Para rodar a aplicação basta rodar o comando:
